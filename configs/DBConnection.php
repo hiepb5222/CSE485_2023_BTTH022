@@ -17,7 +17,7 @@ class DBConnection{
     }
     
     public function query($sql){
-        return $this->connect()->query($sql);
+        return $this->conn->query($sql);
     }
 
 
