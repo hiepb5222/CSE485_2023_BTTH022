@@ -8,14 +8,16 @@
 </head>
 <body>
     <ul>
+<<<<<<< HEAD
         <li><a href="./index.php">Trang chủ</a></li>
+        <li><a href="./index.php?controller=category&action=list">Bài viết</a></li>
+=======
+        <li><a href="./index.php?controller=category&action=list">Trang chủ</a></li>
         <li><a href="./index.php?controller=article&action=list">Bài viết</a></li>
+>>>>>>> ee50871 (CRUD theloai2)
     </ul>
+
     <h1>Tôi là TRANG CHỦ</h1>
-    <?php
-        foreach($articles as $article){
-            echo "<p>{$article->getTitle()}</p>";
-        }
-    ?>
+   
 </body>
 </html>
