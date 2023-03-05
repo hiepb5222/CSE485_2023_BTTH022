@@ -12,7 +12,7 @@
         <li><a href="./index.php?controller=article&action=list">Bài viết</a></li>
     </ul>
 
-    <h1>Tôi là TRANG CHỦ</h1>
+    <h1>Tôi là TRANG CHỦ day</h1>
    
 </body>
 </html>
