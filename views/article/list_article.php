@@ -7,6 +7,7 @@
     <title>Document</title>
 </head>
 <body>
+    <a href="./index.php?controller=article&action=add" class="btn btn-success">Thêm mới</a>
     <table>
         <tr>
             <td>Content Of Cell</td>
