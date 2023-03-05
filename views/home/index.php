@@ -8,7 +8,7 @@
 </head>
 <body>
     <ul>
-        <li><a href="./index.php">Trang chủ</a></li>
+        <li><a href="./index.php?controller=category&action=list">Trang chủ</a></li>
         <li><a href="./index.php?controller=article&action=list">Bài viết</a></li>
     </ul>
     <h1>Tôi là TRANG CHỦ</h1>
